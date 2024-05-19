@@ -32,4 +32,4 @@ function triangulo(numero){
     }
 
 }
-triangulo(27);
+triangulo(9);
